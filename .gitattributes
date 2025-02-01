@@ -1,1 +1,2 @@
 *ESP*.csv filter=lfs diff=lfs merge=lfs -text
+data/**/ESP*.csv filter=lfs diff=lfs merge=lfs -text
