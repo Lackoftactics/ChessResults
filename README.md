@@ -1,5 +1,7 @@
 # Chess Results Project Documentation
 
+Important!! Due to size files were moved to -> [https://www.kaggle.com/work/datasets](https://www.kaggle.com/datasets/pmroczek/chess-results-over-17m-otb-games)
+
 ## Overview
 
 The Chess Results project is designed to scrape, process, and visualize tournament data from chess-results.com. It comprises several modules that fetch tournament listings, start lists, and game results; clean and merge data; and display interactive dashboards.
